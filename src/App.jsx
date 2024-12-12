@@ -15,7 +15,7 @@ const lists = [
   {
     id: crypto.randomUUID(),
     name: 'Words And Things',
-    rating: 0,
+    rating: 1,
   },
   {
     id: crypto.randomUUID(),
@@ -25,7 +25,7 @@ const lists = [
   {
     id: crypto.randomUUID(),
     name: 'Setemi the Instructor',
-    rating: 1,
+    rating: 5,
   },
   {
     id: crypto.randomUUID(),
